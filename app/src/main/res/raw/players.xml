@@ -1,0 +1,87 @@
+<dataroot>
+    <player>
+        <name>Rafael Nadal</name>
+        <country>Spain</country>
+        <world-ranking>1</world-ranking>
+        <details>
+Rafael Nadal is a Spanish professional tennis player, currently world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP).
+Nadal has won 17 Grand Slam singles titles, the second most in history for a male player, as well as a record 33 ATP World Tour Masters 1000 titles, 20 ATP World
+Tour 500 tournaments, and the 2008 Olympic gold medal in singles.In 2010, he became the seventh male player in history and youngest of five in the Open Era to
+achieve the Career Grand Slam at age 24. He is the second male player, after Andre Agassi, to complete the singles Career Golden Slam. In 2011, Nadal was named the
+Laureus World Sportsman of the Year.
+        </details>
+        <image>rafaelnadal.jpg</image>
+        <url>http://www.tennis.com/player/471/rafael-nadal/</url>
+    </player>
+
+    <player>
+        <name>Novak Djokovic</name>
+        <country>Serbia</country>
+        <world-ranking>2</world-ranking>
+        <details>
+Novak Djokovic is a Serbian professional tennis player who is currently ranked world No. 2 in men's singles tennis by the Association of Tennis Professionals (ATP).
+Djokovic has won 14 Grand Slam singles titles, five ATP Finals titles, 32 ATP World Tour Masters 1000 series titles, 12 ATP World Tour 500 tournaments, and has held the No. 1
+spot in the ATP rankings for a total of 223 weeks.He is the first and only male player to have won all nine of the Masters 1000 tournaments. Djokovic is the first Serbian player
+to be ranked No. 1 by the ATP and the first male player representing Serbia to win a Grand Slam singles title. He is a five-time ITF World Champion and a four-time ATP
+year-end No. 1 ranked player
+        </details>
+        <image>novakdjokovic.jpg</image>
+        <url>http://www.tennis.com/player/532/novak-djokovic/</url>
+    </player>
+
+    <player>
+        <name>Roger Federer</name>
+        <country>Switzerland</country>
+        <world-ranking>3</world-ranking>
+        <details>
+Roger Federer is a Swiss professional tennis player who is currently ranked world No. 3 in men's singles tennis by the Association of Tennis Professionals (ATP).
+Federer has won 20 Grand Slam singles titles—the most in history for a male player—and has held the world No. 1 spot in the ATP rankings for a record total of 310 weeks,
+including a record 237 consecutive weeks. He is one of eight men to have achieved a career Grand Slam. Federer has reached a record 30 men's singles Grand Slam finals,
+including 10 in a row from the 2005 Wimbledon Championships to the 2007 US Open.
+        </details>
+        <image>rogerfederer.jpg</image>
+        <url>http://www.tennis.com/player/376/roger-federer/</url>
+    </player>
+
+    <player>
+        <name>Juan Martin Del Potro</name>
+        <country>Argentina</country>
+        <world-ranking>4</world-ranking>
+        <details>
+Juan Martín del Potro is an Argentine professional tennis player who is currently ranked world No. 4 in men's singles by the Association of Tennis Professionals (ATP).
+His biggest achievement has been winning the 2009 US Open, defeating Rafael Nadal in the semifinal and 5-time defending champion Roger Federer in the final. He was the first
+to defeat both Federer and Nadal during same major.He is also the second Argentine and the fifth-youngest man to win the US Open in the Open Era.
+Other career highlights include reaching the 2018 US Open final, winning the bronze medal in men's singles at the 2012 London Olympics, the silver medal at the 2016 Rio Olympics.
+        </details>
+        <image>delpotro.jpg</image>
+        <url>http://www.tennis.com/player/585/juan-martin-del-potro/</url>
+    </player>
+
+    <player>
+        <name>Alexander Zverev</name>
+        <country>Germany</country>
+        <world-ranking>5</world-ranking>
+        <details>
+Alexander Zverev (born 20 April 1997) is a German professional tennis player. He is currently the youngest player in the ATP top 10. In May 2017, Zverev entered the ATP top-10
+for the first time after defeating Novak Djokovic in the final of the 2017 Italian Open, thus winning his first Masters 1000 title.The win made him just the 4th different player
+to beat Djokovic in a Masters 1000 final, after Nadal, Murray, and Federer. He won a second consecutive Masters 1000 title when he defeated Roger Federer at the 2017 Canada
+Masters, eventually reaching his career-high ranking of World No. 3
+        </details>
+        <image>alexanderzverev.jpg</image>
+        <url>http://www.tennis.com/player/762/alexander-zverev/</url>
+    </player>
+
+    <player>
+        <name>Kevin Anderson</name>
+        <country>South Africa</country>
+        <world-ranking>6</world-ranking>
+        <details>
+Kevin Anderson (born 18 May 1986) is a South African professional tennis player who is currently ranked world No. 6 in men's singles by the Association of Tennis
+Professionals (ATP). He became the top-ranked male South African player on 10 March 2008 after making the final at the 2008 Tennis Channel Open in Las Vegas. He achieved
+his career-high ranking of world No. 5 on 16 July 2018. He was the first South African to be ranked in the top 5 since Kevin Curren was No. 5 on 23 September 1985. Anderson
+made his Grand Slam final debut at the 2017 US Open, where he lost to Rafael Nadal. He ended 2017 winning the Abu Dhabi hosted World Tennis Championship.
+        </details>
+        <image>kevinanderson.jpg</image>
+        <url>http://www.tennis.com/player/661/kevin-anderson/</url>
+    </player>
+</dataroot>

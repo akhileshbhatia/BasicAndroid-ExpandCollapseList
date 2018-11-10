@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BasicInfoActivity">
+
+    <ImageView
+        android:id="@+id/playerImageView"
+        android:layout_width="match_parent"
+        android:layout_height="201dp"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        app:srcCompat="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/playerBasicInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        android:shadowColor="#FF3F3B3D"
+        android:shadowRadius="2"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        />
+
+    <Button
+        android:id="@+id/completeInfobtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        android:text="View Complete Info"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+</LinearLayout>

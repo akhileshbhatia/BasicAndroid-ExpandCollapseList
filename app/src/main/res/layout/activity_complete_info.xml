@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".CompleteInfoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textViewName"
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:text="Name:"
+            android:textAlignment="viewStart"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:shadowColor="#FF3F3B3D"
+            android:shadowRadius="2"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+
+        <TextView
+            android:id="@+id/textViewNameData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ABcd"
+            android:textAlignment="viewStart"
+            android:textSize="18sp"
+            android:shadowColor="#FF3F3B3D"
+            android:shadowRadius="2"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textViewCountry"
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:text="Country:"
+            android:textAlignment="viewStart"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:shadowColor="#FF3F3B3D"
+            android:shadowRadius="2"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+
+        <TextView
+            android:id="@+id/textViewCountryData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Serbia"
+            android:textAlignment="viewStart"
+            android:textSize="18sp"
+            android:shadowColor="#FF3F3B3D"
+            android:shadowRadius="2"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textViewRank"
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:text="Ranking:"
+            android:textAlignment="viewStart"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:shadowColor="#FF3F3B3D"
+            android:shadowRadius="2"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+
+        <TextView
+            android:id="@+id/textViewRankData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2"
+            android:textAlignment="viewStart"
+            android:textSize="18sp"
+            android:shadowColor="#FF3F3B3D"
+            android:shadowRadius="2"
+            android:shadowDx="1"
+            android:shadowDy="1"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Information:"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:shadowColor="#FF3F3B3D"
+        android:shadowRadius="2"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+    <TextView
+        android:id="@+id/textViewInfoData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        android:shadowColor="#FF3F3B3D"
+        android:shadowRadius="2"
+        android:shadowDx="1"
+        android:shadowDy="1"/>
+
+    <Button
+        android:id="@+id/buttonWebView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Open Webview"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+</LinearLayout>
